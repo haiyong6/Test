@@ -37,6 +37,7 @@ public class Test {
 		System.out.println(new BigDecimal("100"));
 		System.out.println("我修改了一个java文件。");
 		System.out.println("我修改了一个java文件2");
+		System.out.println("修改3");
 		
 		System.out.println(String.format("%.1f", (double)0.65));
 		System.out.println(new BigDecimal((double)111.65).setScale(-1, BigDecimal.ROUND_HALF_UP));
